@@ -1,0 +1,1 @@
+In this folder there will be all custom object and type definition used in the application 
